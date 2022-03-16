@@ -1,6 +1,6 @@
 # Credit analysis 
 
-## Data obtained from the ISLR package
+### Data obtained from the ISLR package
 
 ## 1 – Descripción de la base de datos
 
