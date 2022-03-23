@@ -1,4 +1,4 @@
-# Credyt analysis 
+# Credit analysis 
 
 El siguiente análisis fue solicitado en la materia "Principios de Estadística" de Universidad ORT en el 2do semestre de 2019.
 
